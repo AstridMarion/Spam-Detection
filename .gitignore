@@ -1,0 +1,38 @@
+# Environnements Virtuels Python
+venv/
+.venv/
+
+# uv cache
+.uv/
+
+# Caches et meta-donnees du compilateur/interpréteur Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches de l'ecosysteme Python
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+history.sqlite
+
+# Notebooks et IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Fichiers de suivi de Model/MLOps
+mlruns/
+*.pkl
+*.pickle
+*.joblib
+*.egg-info/
+
+# Fichiers de systeme d'exploitation
+.DS_Store
+Thumbs.db
+
+#fichier inconnu
+air_quality.egg-info/
