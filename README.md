@@ -566,7 +566,7 @@ LOGISTIC_REGRESSION_PARAMS = {'max_iter': 1000, 'random_state': 3}
   Contributions: Pipeline architecture, tests, data processor, model trainer
   
 - **Astrid Marion**  
-  Contributions: Pipeline architecture, feature engineering, tests, business analysis, documentation, README authoring
+  Contributions: Pipeline architecture, feature engineering, MLflow integration, tests, business analysis, documentation, README authoring
   
 - **Louise Delfosse**  
   Contributions: Data preprocessing, evaluator, tests, hyperparameter optimization, MLflow integration, result interpretation, README authoring
